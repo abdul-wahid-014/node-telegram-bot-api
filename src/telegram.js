@@ -2742,3 +2742,4 @@ class TelegramBot extends EventEmitter {
 }
 
 module.exports = TelegramBot;
+//comment
